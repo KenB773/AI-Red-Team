@@ -1,6 +1,6 @@
 # IMDB Sentiment Classification (HTB Skills Assessment)
 
-This project tackles a binary sentiment classification task using the [IMDB movie reviews dataset](https://ai.stanford.edu/~amaas/data/sentiment/), as part of a HackerOne/HTB skills assessment. The goal was to train a model capable of predicting whether a given movie review is **positive (1)** or **negative (0)**.
+This project tackles a binary sentiment classification task using the [IMDB movie reviews dataset](https://ai.stanford.edu/~amaas/data/sentiment/), as part of a HackTheBox skills assessment. The goal was to train a model capable of predicting whether a given movie review is **positive (1)** or **negative (0)**.
 
 ---
 
